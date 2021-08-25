@@ -70,7 +70,7 @@
 		"name": "X22",
 		"symbol": "X22",
 		"decimals": 18,
-		"logoURI": "https://bscscan.com/token/images/twotwoart_32.png"
+		"logoURI": "https://assets.coingecko.com/coins/images/17421/small/x22.PNG?1627600635"
 		},
 		{
 		"address": "0x41045282901e90bda7578d628e479e5421d1cdd5",
@@ -78,7 +78,7 @@
 		"name": "X22",
 		"symbol": "X22",
 		"decimals": 18,
-		"logoURI": "https://bscscan.com/token/images/twotwoart_32.png"
+		"logoURI": "https://assets.coingecko.com/coins/images/17421/small/x22.PNG?1627600635"
 		}
 	]
 }
