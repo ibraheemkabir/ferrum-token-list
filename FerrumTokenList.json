@@ -87,6 +87,38 @@
 		"symbol": "XIV",
 		"decimals": 18,
 		"logoURI": "https://etherscan.io/token/images/projectinverse_32.png?v=2"
+		},
+		{
+		"address": "0xc7b58945a08aa90f6db6440fb0bcc22fb45e6e98",
+		"chainId": 80001,
+		"name": "Rocket Vault (PoS) (RVF)",
+		"symbol": "RVF",
+		"decimals": 18,
+		"logoURI": "https://etherscan.io/token/images/rocketvault_32.png"
+		},
+		{
+		"address": "0xfe00ee6f00dd7ed533157f6250656b4e007e7179",
+		"chainId": 80001,
+		"name": "Ferrum Network Token",
+		"symbol": "FRM",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/8251/small/frm.png?1563777564"
+		},
+		{
+		"address": "0xe1de1dc4de074e9c8bbf5e2d66cfdb4f0b2cb61a",
+		"chainId": 4,
+		"name": "PAID",
+		"symbol": "PAID",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/13761/small/PAID.png?1612493556"
+		},
+		{
+		"address": "0x532197ec38756b9956190b845d99b4b0a88e4ca9",
+		"chainId": 97,
+		"name": "PAID",
+		"symbol": "PAID",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/13761/small/PAID.png?1612493556"
 		}
 	]
 }
