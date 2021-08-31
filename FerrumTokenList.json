@@ -79,6 +79,14 @@
 		"symbol": "X22",
 		"decimals": 18,
 		"logoURI": "https://assets.coingecko.com/coins/images/17421/small/x22.PNG?1627600635"
+		},
+		{
+		"address": "0x00518f36d2e0e514e8eb94d34124fc18ee756f10",
+		"chainId": 56,
+		"name": "INVERSE",
+		"symbol": "XIV",
+		"decimals": 18,
+		"logoURI": "https://etherscan.io/token/images/projectinverse_32.png?v=2"
 		}
 	]
 }
