@@ -119,6 +119,31 @@
 		"symbol": "PAID",
 		"decimals": 18,
 		"logoURI": "https://assets.coingecko.com/coins/images/13761/small/PAID.png?1612493556"
+		},
+		{
+		"address": "0x9583A06328873C0aF0e905b785f8530877920B61",
+		"chainId": 4,
+		"name": "PureFi",
+		"symbol": "UFI",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/17341/small/purefi.PNG?1627362147"
+		},
+		{
+		"address": "0xa729BF41f8208FCEDFA3D5558dF210e86c9542fa",
+		"chainId": 4,
+		"name": "PureFi",
+		"symbol": "UFI",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/17341/small/purefi.PNG?1627362147"
+		},
+		{
+		"address": "0xD6621cA6D505BBFFA891B61535c8C11820C5130b",
+		"chainId": 80001,
+		"name": "PureFi",
+		"symbol": "UFI",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/17341/small/purefi.PNG?1627362147"
 		}
+		
 	]
 }
