@@ -159,6 +159,22 @@
 		"symbol": "RVF",
 		"decimals": 18,
 		"logoURI": "https://assets.coingecko.com/coins/images/14728/thumb/7.png?1618414105"
+		},
+                {
+		"address": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
+		"chainId": 1,
+		"name": "Rocket Vault",
+		"symbol": "RVF",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/14728/thumb/7.png?1618414105"
+		},
+                {
+		"address": "0x44f262622248027f8e2a8fb1090c4cf85072392c",
+		"chainId": 1,
+		"name": "INVERSE",
+		"symbol": "XIV",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/14231/thumb/photo_2021-06-07_22-10-41.jpg?1623075271"
 		}	
 	]
 }
