@@ -143,7 +143,22 @@
 		"symbol": "UFI",
 		"decimals": 18,
 		"logoURI": "https://assets.coingecko.com/coins/images/17341/small/purefi.PNG?1627362147"
-		}
-		
+		},
+		{
+		"address": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+		"chainId": 1,
+		"name": "Ferrum Network Token",
+		"symbol": "FRM",
+		"decimals": 6,
+		"logoURI": "https://assets.coingecko.com/coins/images/8251/thumb/frm.png?1563777564"
+		},
+                {
+		"address": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
+		"chainId": 1,
+		"name": "Rocket Vault",
+		"symbol": "RVF",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/14728/thumb/7.png?1618414105"
+		}	
 	]
 }
