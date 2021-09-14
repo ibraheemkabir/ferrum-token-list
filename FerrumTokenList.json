@@ -175,6 +175,54 @@
 		"symbol": "XIV",
 		"decimals": 18,
 		"logoURI": "https://assets.coingecko.com/coins/images/14231/thumb/photo_2021-06-07_22-10-41.jpg?1623075271"
-		}	
+		},
+                {
+		"address": "0xa719b8ab7ea7af0ddb4358719a34631bb79d15dc",
+		"chainId": 57,
+		"name": "Ferrum Network Token",
+		"symbol": "FRM",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/8251/small/frm.png?1563777564"
+		},
+                {
+		"address": "0xf6832ea221ebfdc2363729721a146e6745354b14",
+		"chainId": 1,
+		"name": "FRMX Token",
+		"symbol": "FRMX",
+		"decimals": 18,
+		"logoURI": "https://etherscan.io/token/images/ferrum_32.png"
+		},
+                {
+		"address": "0x8523518001ad5d24b2a04e8729743c0643a316c0",
+		"chainId": 56,
+		"name": "FRMX Token",
+		"symbol": "FRMX",
+		"decimals": 18,
+		"logoURI": "https://etherscan.io/token/images/ferrum_32.png"
+		},
+                {
+		"address": "0x00e197ac4735f1d6a0a2f0df3947e6ed86d09260",
+		"chainId": 137,
+		"name": "FRMX Token",
+		"symbol": "FRMX",
+		"decimals": 18,
+		"logoURI": "https://etherscan.io/token/images/ferrum_32.png"
+		},
+                {
+		"address": "0xe2a59d5e33c6540e18aaa46bf98917ac3158db0d",
+		"chainId": 56,
+		"name": "PureFi Token",
+		"symbol": "UFI",
+		"decimals": 18,
+		"logoURI": "https://bscscan.com/token/images/purefi_32.png"
+		},
+                {
+		"address": "0xcda4e840411c00a614ad9205caec807c7458a0e3",
+		"chainId": 1,
+		"name": "PureFi Token",
+		"symbol": "UFI",
+		"decimals": 18,
+		"logoURI": "https://bscscan.com/token/images/purefi_32.png"
+		}
 	]
 }
