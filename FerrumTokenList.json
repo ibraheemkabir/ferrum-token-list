@@ -178,7 +178,7 @@
 		},
                 {
 		"address": "0xa719b8ab7ea7af0ddb4358719a34631bb79d15dc",
-		"chainId": 57,
+		"chainId": 56,
 		"name": "Ferrum Network Token",
 		"symbol": "FRM",
 		"decimals": 18,
