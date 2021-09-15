@@ -214,7 +214,7 @@
 		"name": "PureFi Token",
 		"symbol": "UFI",
 		"decimals": 18,
-		"logoURI": "https://bscscan.com/token/images/purefi_32.png"
+		"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/PureFi-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Staking-Bridge-1.png"
 		},
                 {
 		"address": "0xcda4e840411c00a614ad9205caec807c7458a0e3",
@@ -222,7 +222,7 @@
 		"name": "PureFi Token",
 		"symbol": "UFI",
 		"decimals": 18,
-		"logoURI": "https://bscscan.com/token/images/purefi_32.png"
+		"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/PureFi-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Staking-Bridge-1.png"
 		}
 	]
 }
