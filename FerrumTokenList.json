@@ -223,6 +223,22 @@
 		"symbol": "UFI",
 		"decimals": 18,
 		"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/PureFi-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Staking-Bridge-1.png"
+		},
+		{
+			"address": "0x3a9c1a3d0dda6a025794626afd2a4c7b7e740712",
+			"chainId": 4,
+			"name": "Spores Network",
+			"symbol": "SPO",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/17431/small/SPO_token.png?1627619762"
+		},
+		{
+			"address": "0x8ba461bd61bac52fbe993b456767245264ec503f",
+			"chainId": 97,
+			"name": "Spores Network",
+			"symbol": "SPO",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/17431/small/SPO_token.png?1627619762"
 		}
 	]
 }
