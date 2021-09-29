@@ -216,9 +216,17 @@
 		"decimals": 18,
 		"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/PureFi-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Staking-Bridge-1.png"
 		},
-                {
+        {
 		"address": "0xcda4e840411c00a614ad9205caec807c7458a0e3",
 		"chainId": 1,
+		"name": "PureFi Token",
+		"symbol": "UFI",
+		"decimals": 18,
+		"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/PureFi-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Staking-Bridge-1.png"
+		},
+		{
+		"address": "0xf2d3f6846ab7bc3e860c6f2c8c0b8ffbbdfc9931",
+		"chainId": 80001,
 		"name": "PureFi Token",
 		"symbol": "UFI",
 		"decimals": 18,
@@ -246,7 +254,7 @@
 			"name": "Digital Fitness",
 			"symbol": "DEFIT",
 			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/14699/small/Defit.png?1623738365"
+			"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/DEFIT_main_logo_original_nobackground.png"
 		},
 		{
 			"address": "0x84cffa78b2fbbeec8c37391d2b12a04d2030845e",
@@ -254,7 +262,7 @@
 			"name": "Digital Fitness",
 			"symbol": "DEFIT",
 			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/14699/small/Defit.png?1623738365"
+			"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/DEFIT_main_logo_original_nobackground.png"
 		},
 		{
 			"address": "0x428360b02c1269bc1c79fbc399ad31d58c1e8fda",
@@ -262,7 +270,7 @@
 			"name": "Digital Fitness",
 			"symbol": "DEFIT",
 			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/14699/small/Defit.png?1623738365"
+			"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/DEFIT_main_logo_original_nobackground.png"
 		},
 		{
 			"address": "0x240b3de058b00d68bf1c2052da45e62998ea8160",
@@ -270,7 +278,7 @@
 			"name": "Digital Fitness",
 			"symbol": "DEFIT",
 			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/14699/small/Defit.png?1623738365"
+			"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/DEFIT_main_logo_original_nobackground.png"
 		}
 	]
 }
