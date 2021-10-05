@@ -97,6 +97,14 @@
 		"logoURI": "https://etherscan.io/token/images/rocketvault_32.png"
 		},
 		{
+		"address": "0x1a4fa8b00db7f5f227145a97d7e28bb2e0defbf4",
+		"chainId": 97,
+		"name": "Rocket Vault (PoS) (RVF)",
+		"symbol": "RVF",
+		"decimals": 18,
+		"logoURI": "https://etherscan.io/token/images/rocketvault_32.png"
+		},
+		{
 		"address": "0xfe00ee6f00dd7ed533157f6250656b4e007e7179",
 		"chainId": 80001,
 		"name": "Ferrum Network Token",
