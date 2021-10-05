@@ -287,6 +287,14 @@
 			"symbol": "DEFIT",
 			"decimals": 18,
 			"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/DEFIT_main_logo_original_nobackground.png"
+		},
+		{
+			"address": "0x872a34ebb2d54af86827810eebc7b9dc6b2144aa",
+			"chainId": 56,
+			"name": "RocketVaultRocketX",
+			"symbol": "RVF",
+			"decimals": 18,
+			"logoURI": "https://etherscan.io/token/images/rocketvault_32.png"
 		}
 	]
 }
