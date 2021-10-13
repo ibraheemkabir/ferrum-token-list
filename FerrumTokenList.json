@@ -265,6 +265,38 @@
 			"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/DEFIT_main_logo_original_nobackground.png"
 		},
 		{
+			"address": "0xd24413290717276f73e8277facaa6d9de53eed5f",
+			"chainId": 97,
+			"name": "ISPOLINK",
+			"symbol": "ISPOLINK",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_Token_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+		},
+		{
+			"address": "0x6f48f2d0fda748f4ba47aa84ff80f135ae4e657b",
+			"chainId": 4,
+			"name": "ISPOLINK",
+			"symbol": "ISPOLINK",
+			"decimals": 18,
+			"logoURI": " https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_Token_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+		},
+		{
+			"address": "0x91b988d8134e3947e5d21a03533e23f7a0b272ef",
+			"chainId": 97,
+			"name": "SIGNATA",
+			"symbol": "SIGNATA",
+			"decimals": 18,
+			"logoURI": "http://ferrum.network/nwp/bridge-assets/Signata/signata%20token%20logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+		},
+		{
+			"address": "0x46da373d7676248805b56392df4e92f7ac64b2f6",
+			"chainId": 4,
+			"name": "SIGNATA",
+			"symbol": "SIGNATA",
+			"decimals": 18,
+			"logoURI": " http://ferrum.network/nwp/bridge-assets/Signata/signata%20token%20logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+		},
+		{
 			"address": "0x84cffa78b2fbbeec8c37391d2b12a04d2030845e",
 			"chainId": 1,
 			"name": "Digital Fitness",
