@@ -257,6 +257,22 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/14699/small/Defit.png?1623738365"
 		},
 		{
+			"address": "0xd24413290717276f73e8277facaa6d9de53eed5f",
+			"chainId": 97,
+			"name": "ISPOLINK",
+			"symbol": "ISPOLINK",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_Token_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+		},
+		{
+			"address": "0x6f48f2d0fda748f4ba47aa84ff80f135ae4e657b",
+			"chainId": 4,
+			"name": "ISPOLINK",
+			"symbol": "ISPOLINK",
+			"decimals": 18,
+			"logoURI": " https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_Token_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+		},
+		{
 			"address": "0x84cffa78b2fbbeec8c37391d2b12a04d2030845e",
 			"chainId": 1,
 			"name": "Digital Fitness",
