@@ -343,22 +343,6 @@
 			"symbol": "RVF",
 			"decimals": 18,
 			"logoURI": "https://etherscan.io/token/images/rocketvault_32.png"
-		},
-		{
-			"address": "0xcbe771323587ea16dacb6016e269d7f08a7acc4e",
-			"chainId": 1,
-			"name": "Spores",
-			"symbol": "SPO",
-			"decimals": 18,
-			"logoURI": "https://etherscan.io/token/images/sporesnetwork_32.png"
-		},
-		{
-			"address": "0x8357c604c5533fa0053beaaa1494da552cea38f7",
-			"chainId": 56,
-			"name": "Spores",
-			"symbol": "SPO",
-			"decimals": 18,
-			"logoURI": "https://etherscan.io/token/images/sporesnetwork_32.png"
 		}
 	]
 }
