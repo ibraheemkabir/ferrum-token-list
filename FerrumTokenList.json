@@ -134,7 +134,7 @@
 		"name": "PureFi",
 		"symbol": "UFI",
 		"decimals": 18,
-		"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/PureFi-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Staking-Bridge-1.png"
+		"logoURI": "https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
 		},
 		{
 		"address": "0xa729BF41f8208FCEDFA3D5558dF210e86c9542fa",
@@ -142,7 +142,7 @@
 		"name": "PureFi",
 		"symbol": "UFI",
 		"decimals": 18,
-		"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/PureFi-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Staking-Bridge-1.png"
+		"logoURI": "https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
 		},
 		{
 		"address": "0xD6621cA6D505BBFFA891B61535c8C11820C5130b",
@@ -150,7 +150,7 @@
 		"name": "PureFi",
 		"symbol": "UFI",
 		"decimals": 18,
-		"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/PureFi-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Staking-Bridge-1.png"
+		"logoURI": "https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
 		},
 		{
 		"address": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
@@ -222,7 +222,7 @@
 		"name": "PureFi Token",
 		"symbol": "UFI",
 		"decimals": 18,
-		"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/PureFi-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Staking-Bridge-1.png"
+		"logoURI": "https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
 		},
         {
 		"address": "0xcda4e840411c00a614ad9205caec807c7458a0e3",
@@ -230,7 +230,7 @@
 		"name": "PureFi Token",
 		"symbol": "UFI",
 		"decimals": 18,
-		"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/PureFi-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Staking-Bridge-1.png"
+		"logoURI": "https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
 		},
 		{
 		"address": "0xf2d3f6846ab7bc3e860c6f2c8c0b8ffbbdfc9931",
@@ -238,7 +238,7 @@
 		"name": "PureFi Token",
 		"symbol": "UFI",
 		"decimals": 18,
-		"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/PureFi-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Staking-Bridge-1.png"
+		"logoURI": "https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
 		},
 		{
 			"address": "0x3a9c1a3d0dda6a025794626afd2a4c7b7e740712",
@@ -278,7 +278,7 @@
 			"name": "Digital Fitness",
 			"symbol": "DEFIT",
 			"decimals": 18,
-			"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/DEFIT_main_logo_original_nobackground.png"
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/DEFIT/DEFIT_Token_Logo_Ferru%20m_Cross-Chain-Token_Bridge.png"
 		},
 		{
 			"address": "0xd24413290717276f73e8277facaa6d9de53eed5f",
@@ -318,7 +318,7 @@
 			"name": "Digital Fitness",
 			"symbol": "DEFIT",
 			"decimals": 18,
-			"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/DEFIT_main_logo_original_nobackground.png"
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/DEFIT/DEFIT_Token_Logo_Ferru%20m_Cross-Chain-Token_Bridge.png"
 		},
 		{
 			"address": "0x428360b02c1269bc1c79fbc399ad31d58c1e8fda",
@@ -326,7 +326,7 @@
 			"name": "Digital Fitness",
 			"symbol": "DEFIT",
 			"decimals": 18,
-			"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/DEFIT_main_logo_original_nobackground.png"
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/DEFIT/DEFIT_Token_Logo_Ferru%20m_Cross-Chain-Token_Bridge.png"
 		},
 		{
 			"address": "0x240b3de058b00d68bf1c2052da45e62998ea8160",
@@ -334,7 +334,7 @@
 			"name": "Digital Fitness",
 			"symbol": "DEFIT",
 			"decimals": 18,
-			"logoURI": "https://ferrum.network/wp-content/uploads/2021/09/DEFIT_main_logo_original_nobackground.png"
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/DEFIT/DEFIT_Token_Logo_Ferru%20m_Cross-Chain-Token_Bridge.png"
 		},
 		{
 			"address": "0x872a34ebb2d54af86827810eebc7b9dc6b2144aa",
