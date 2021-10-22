@@ -407,6 +407,22 @@
 			"symbol": "TBLXM",
 			"decimals": 18,
 			"logoURI": "https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+		},
+		{
+			"address": "0xb0496119df388fdfb499cd6415a249004ab9b9cb",
+			"chainId": 4,
+			"name": "bloXmove Token",
+			"symbol": "TBLXM",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+		},
+		{
+			"address": "0x40e51e0ec04283e300f12f6bb98da157bb22036e",
+			"chainId": 97,
+			"name": "bloXmove Token",
+			"symbol": "TBLXM",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
 		}
 	]
 }
