@@ -410,7 +410,7 @@
 		},
 		{
 			"address": "0x38d9eb07a7b8df7d86f440a4a5c4a4c1a27e1a08",
-			"chainId": 4,
+			"chainId": 1,
 			"name": "bloXmove Token",
 			"symbol": "TBLXM",
 			"decimals": 18,
@@ -418,7 +418,7 @@
 		},
 		{
 			"address": "0x40e51e0ec04283e300f12f6bb98da157bb22036e",
-			"chainId": 97,
+			"chainId": 56,
 			"name": "bloXmove Token",
 			"symbol": "TBLXM",
 			"decimals": 18,
