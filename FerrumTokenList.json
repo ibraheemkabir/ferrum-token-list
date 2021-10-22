@@ -412,7 +412,7 @@
 			"address": "0x38d9eb07a7b8df7d86f440a4a5c4a4c1a27e1a08",
 			"chainId": 1,
 			"name": "bloXmove Token",
-			"symbol": "TBLXM",
+			"symbol": "BLXM",
 			"decimals": 18,
 			"logoURI": "https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
 		},
@@ -420,7 +420,7 @@
 			"address": "0x40e51e0ec04283e300f12f6bb98da157bb22036e",
 			"chainId": 56,
 			"name": "bloXmove Token",
-			"symbol": "TBLXM",
+			"symbol": "BLXM",
 			"decimals": 18,
 			"logoURI": "https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
 		}
