@@ -300,7 +300,7 @@
 			"address": "0x91b988d8134e3947e5d21a03533e23f7a0b272ef",
 			"chainId": 97,
 			"name": "SIGNATA",
-			"symbol": "SIGNATA",
+			"symbol": "SATA",
 			"decimals": 18,
 			"logoURI": "http://ferrum.network/nwp/bridge-assets/Signata/signata%20token%20logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
 		},
@@ -308,7 +308,23 @@
 			"address": "0x46da373d7676248805b56392df4e92f7ac64b2f6",
 			"chainId": 4,
 			"name": "SIGNATA",
-			"symbol": "SIGNATA",
+			"symbol": "SATA",
+			"decimals": 18,
+			"logoURI": " http://ferrum.network/nwp/bridge-assets/Signata/signata%20token%20logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+		},
+		{
+			"address": "0x3ebb4a4e91ad83be51f8d596533818b246f4bee1",
+			"chainId": 1,
+			"name": "SIGNATA",
+			"symbol": "SATA",
+			"decimals": 18,
+			"logoURI": "http://ferrum.network/nwp/bridge-assets/Signata/signata%20token%20logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+		},
+		{
+			"address": "0x6b1c8765c7eff0b60706b0ae489eb9bb9667465a",
+			"chainId": 56,
+			"name": "SIGNATA",
+			"symbol": "SATA",
 			"decimals": 18,
 			"logoURI": " http://ferrum.network/nwp/bridge-assets/Signata/signata%20token%20logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
 		},
