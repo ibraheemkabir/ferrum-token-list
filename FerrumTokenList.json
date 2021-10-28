@@ -439,6 +439,22 @@
 			"symbol": "BLXM",
 			"decimals": 18,
 			"logoURI": "https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+		},
+		{
+			"address": "0x6481bfa9a0b57c1f14afc889e1f3f3ac19b25e5d",
+			"chainId": 4,
+			"name": "Trial",
+			"symbol": "TRL",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/Trial/Trial%20Token%20Logo%20-%20Ferrum%20Network%20-%20Taha%20Abbasi.png"
+		},
+		{
+			"address": "0x323074e05a036657C3E57c499Ed375A25AB16293",
+			"chainId": 97,
+			"name": "Trial",
+			"symbol": "TRL",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/Trial/Trial%20Token%20Logo%20-%20Ferrum%20Network%20-%20Taha%20Abbasi.png"
 		}
 	]
 }
