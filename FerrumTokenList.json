@@ -471,6 +471,22 @@
 			"symbol": "XLD",
 			"decimals": 18,
 			"logoURI": "https://ferrum.network/nwp/bridge-assets/XcelDefi/xceldefi%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+		},
+		{
+			"address": "0x609059fb21ddb42a36d28b6b89b7cd6ca0addadd",
+			"chainId": 1,
+			"name": "XCELDEFI",
+			"symbol": "XLD",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/XcelDefi/xceldefi%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+		},
+		{
+			"address": "0xc79d1fd14f514cd713b5ca43d288a782ae53eab2",
+			"chainId": 56,
+			"name": "XCELDEFI",
+			"symbol": "XLD",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/XcelDefi/xceldefi%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
 		}
 	]
 }
