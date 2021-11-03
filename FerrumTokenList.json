@@ -297,6 +297,22 @@
 			"logoURI": " https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_Token_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
 		},
 		{
+			"address": "0xd2e7b964770fcf51df088a5f0bb2d33a3c60cccf",
+			"chainId": 56,
+			"name": "ISPOLINK",
+			"symbol": "ISPOLINK",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_Token_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+		},
+		{
+			"address": "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
+			"chainId": 1,
+			"name": "ISPOLINK",
+			"symbol": "ISPOLINK",
+			"decimals": 18,
+			"logoURI": " https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_Token_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+		},
+		{
 			"address": "0x91b988d8134e3947e5d21a03533e23f7a0b272ef",
 			"chainId": 97,
 			"name": "SIGNATA",
