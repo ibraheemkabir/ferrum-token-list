@@ -473,6 +473,22 @@
 			"logoURI": "https://ferrum.network/nwp/bridge-assets/Trial/Trial%20Token%20Logo%20-%20Ferrum%20Network%20-%20Taha%20Abbasi.png"
 		},
 		{
+			"address": "0x58f9102bf53cf186682bd9a281d3cd3c616eec41",
+			"chainId": 1,
+			"name": "Trial",
+			"symbol": "TRL",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/Trial/Trial%20Token%20Logo%20-%20Ferrum%20Network%20-%20Taha%20Abbasi.png"
+		},
+		{
+			"address": "0xe2eb47954e821dc94e19013677004cd59be0b17f",
+			"chainId": 56,
+			"name": "Trial",
+			"symbol": "TRL",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/Trial/Trial%20Token%20Logo%20-%20Ferrum%20Network%20-%20Taha%20Abbasi.png"
+		},
+		{
 			"address": "0xdd710f58978004dbb8fec09e97a4805e64adc53f",
 			"chainId": 4,
 			"name": "XCELDEFI",
