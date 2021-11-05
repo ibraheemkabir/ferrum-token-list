@@ -519,6 +519,22 @@
 			"symbol": "XLD",
 			"decimals": 18,
 			"logoURI": "https://ferrum.network/nwp/bridge-assets/XcelDefi/xceldefi%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+		},
+		{
+			"address": "0xeB2C7A8409840C0Fc35a3230cd6e81b4F27b3aAC",
+			"chainId": 43113,
+			"name": "Ahmed Ferrum",
+			"symbol": "AFRM",
+			"decimals": 18,
+			"logoURI": "https://i.imgur.com/Sr7RAd6.png"
+		},
+		{
+			"address": "0xd401a6140885fcDBD240426603696E2E7Ff2de46",
+			"chainId": 4,
+			"name": "Ahmed Ferrum",
+			"symbol": "AFRM",
+			"decimals": 18,
+			"logoURI": "https://i.imgur.com/Sr7RAd6.png"
 		}
 	]
 }
