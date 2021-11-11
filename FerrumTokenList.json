@@ -377,26 +377,18 @@
 			"logoURI": "https://etherscan.io/token/images/rocketvault_32.png"
 		},
 		{
-			"address": "0x912a5c160cd266cfcecf97c92136f49521661351",
+			"address": "0xda9c2064687ff02e1331efb39d1be0bc5db600f6",
 			"chainId": 4,
-			"name": "SDAO-FerrumBridgeTest",
-			"symbol": "SDAOFBT",
+			"name": "Singularity Dao",
+			"symbol": "SDAO",
 			"decimals": 18,
 			"logoURI": "https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
 		},
 		{
-			"address": "0x5b2e68e5f9b5be91fad1486882a120a199e550fb",
+			"address": "0xfb85b9ec50560e302ab106f1e2857d95132120d0",
 			"chainId": 97,
-			"name": "SDAO-FerrumBridgeTest",
-			"symbol": "SDAOFBT",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
-		},
-		{
-			"address": "0x174453e64f79d5c5855acbbdbd46f039f97c86b9",
-			"chainId": 80001,
-			"name": "SDAO-FerrumBridgeTest",
-			"symbol": "SDAOFBT",
+			"name": "Singularity Dao",
+			"symbol": "SDAO",
 			"decimals": 18,
 			"logoURI": "https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
 		},
