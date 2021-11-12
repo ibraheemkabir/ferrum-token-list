@@ -425,6 +425,22 @@
 			"logoURI": "https://ferrum.network/nwp/bridge-assets/CRYSTL/CRYSTL-FAVICON-300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
 		},
 		{
+			"address": "0xb5382dfba952a41a2f2d0b7313c3578b83d32be0",
+			"chainId": 4,
+			"name": "Hackathon bloXmove Token",
+			"symbol": "HBLXM-E",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+		},
+		{
+			"address": "0x6703bb029a9b2d44f8e21ec7f635c5a0b06743fa",
+			"chainId": 97,
+			"name": "Hackathon bloXmove Token",
+			"symbol": "HBLXM-E",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+		},
+		{
 			"address": "0xb0496119df388fdfb499cd6415a249004ab9b9cb",
 			"chainId": 4,
 			"name": "Test bloXmove Token",
