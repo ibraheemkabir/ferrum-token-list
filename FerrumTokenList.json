@@ -286,7 +286,7 @@
 			"name": "ISPOLINK",
 			"symbol": "ISPOLINK",
 			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_Token_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_FAVICON_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
 		},
 		{
 			"address": "0x6f48f2d0fda748f4ba47aa84ff80f135ae4e657b",
@@ -294,7 +294,7 @@
 			"name": "ISPOLINK",
 			"symbol": "ISPOLINK",
 			"decimals": 18,
-			"logoURI": " https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_Token_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_FAVICON_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
 		},
 		{
 			"address": "0xd2e7b964770fcf51df088a5f0bb2d33a3c60cccf",
@@ -302,7 +302,7 @@
 			"name": "ISPOLINK",
 			"symbol": "ISPOLINK",
 			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_Token_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_FAVICON_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
 		},
 		{
 			"address": "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
@@ -310,7 +310,7 @@
 			"name": "ISPOLINK",
 			"symbol": "ISPOLINK",
 			"decimals": 18,
-			"logoURI": " https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_Token_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_FAVICON_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
 		},
 		{
 			"address": "0x91b988d8134e3947e5d21a03533e23f7a0b272ef",
@@ -377,26 +377,18 @@
 			"logoURI": "https://etherscan.io/token/images/rocketvault_32.png"
 		},
 		{
-			"address": "0x912a5c160cd266cfcecf97c92136f49521661351",
+			"address": "0xda9c2064687ff02e1331efb39d1be0bc5db600f6",
 			"chainId": 4,
-			"name": "SDAO-FerrumBridgeTest",
-			"symbol": "SDAOFBT",
+			"name": "Singularity Dao",
+			"symbol": "SDAO",
 			"decimals": 18,
 			"logoURI": "https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
 		},
 		{
-			"address": "0x5b2e68e5f9b5be91fad1486882a120a199e550fb",
+			"address": "0xfb85b9ec50560e302ab106f1e2857d95132120d0",
 			"chainId": 97,
-			"name": "SDAO-FerrumBridgeTest",
-			"symbol": "SDAOFBT",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
-		},
-		{
-			"address": "0x174453e64f79d5c5855acbbdbd46f039f97c86b9",
-			"chainId": 80001,
-			"name": "SDAO-FerrumBridgeTest",
-			"symbol": "SDAOFBT",
+			"name": "Singularity Dao",
+			"symbol": "SDAO",
 			"decimals": 18,
 			"logoURI": "https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
 		},
@@ -535,6 +527,22 @@
 			"symbol": "XLD",
 			"decimals": 18,
 			"logoURI": "https://ferrum.network/nwp/bridge-assets/XcelDefi/xceldefi%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+		},
+		{
+			"address": "0xeb2c7a8409840c0fc35a3230cd6e81b4f27b3aac",
+			"chainId": 43113,
+			"name": "Ahmed Ferrum",
+			"symbol": "AFRM",
+			"decimals": 18,
+			"logoURI": "https://i.imgur.com/Sr7RAd6.png"
+		},
+		{
+			"address": "0xd401a6140885fcdbd240426603696e2e7ff2de46",
+			"chainId": 4,
+			"name": "Ahmed Ferrum",
+			"symbol": "AFRM",
+			"decimals": 18,
+			"logoURI": "https://i.imgur.com/Sr7RAd6.png"
 		}
 	]
 }
