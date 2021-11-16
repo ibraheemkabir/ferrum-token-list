@@ -543,6 +543,22 @@
 			"symbol": "AFRM",
 			"decimals": 18,
 			"logoURI": "https://i.imgur.com/Sr7RAd6.png"
+		},
+		{
+			"address": "0x0fd67b4ceb9b607ef206904ec73459c4880132c9",
+			"chainId": 4,
+			"name": "ShoeFy",
+			"symbol": "SHOE",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/assets/ShoeFy/tokenLogo-SHOEFY-Cross-Chain-Token-Bridge-Ferrum-Network-Taha-Abbasi.png"
+		},
+		{
+			"address": "0x0fd67b4ceb9b607ef206904ec73459c4880132c9",
+			"chainId": 97,
+			"name": "XCELDEFI",
+			"symbol": "SHOE",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/assets/ShoeFy/tokenLogo-SHOEFY-Cross-Chain-Token-Bridge-Ferrum-Network-Taha-Abbasi.png"
 		}
 	]
 }
