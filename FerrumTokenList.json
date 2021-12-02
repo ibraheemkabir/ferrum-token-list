@@ -537,6 +537,14 @@
 			"logoURI": "https://i.imgur.com/Sr7RAd6.png"
 		},
 		{
+			"address": "0x5600bbe2a0ff23d5d07286a933b89348030b0993",
+			"chainId": 1287,
+			"name": "Ahmed Ferrum",
+			"symbol": "AFRM",
+			"decimals": 18,
+			"logoURI": "https://i.imgur.com/nCXvb8C.png"
+		},
+		{
 			"address": "0xd401a6140885fcdbd240426603696e2e7ff2de46",
 			"chainId": 4,
 			"name": "Ahmed Ferrum",
