@@ -393,6 +393,22 @@
 			"logoURI": "https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
 		},
 		{
+			"address": "0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
+			"chainId": 1,
+			"name": "Singularity Dao",
+			"symbol": "SDAO",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+		},
+		{
+			"address": "0x90ed8f1dc86388f14b64ba8fb4bbd23099f18240",
+			"chainId": 56,
+			"name": "Singularity Dao",
+			"symbol": "SDAO",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+		},
+		{
 			"address": "0xf02943f39a60e029362f83bf462c7f6bbb310f2c",
 			"chainId": 4,
 			"name": "CRYSTL-FerrumBridgeTest",
@@ -563,7 +579,23 @@
 		{
 			"address": "0x0fd67b4ceb9b607ef206904ec73459c4880132c9",
 			"chainId": 97,
-			"name": "XCELDEFI",
+			"name": "ShoeFy",
+			"symbol": "SHOE",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/assets/ShoeFy/tokenLogo-SHOEFY-Cross-Chain-Token-Bridge-Ferrum-Network-Taha-Abbasi.png"
+		},
+		{
+			"address": "0x0fd67b4ceb9b607ef206904ec73459c4880132c9",
+			"chainId": 1,
+			"name": "ShoeFy",
+			"symbol": "SHOE",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/assets/ShoeFy/tokenLogo-SHOEFY-Cross-Chain-Token-Bridge-Ferrum-Network-Taha-Abbasi.png"
+		},
+		{
+			"address": "0xc0f42b31d154234a0a3ebe7ec52c662101c1d9bc",
+			"chainId": 56,
+			"name": "ShoeFy",
 			"symbol": "SHOE",
 			"decimals": 18,
 			"logoURI": "https://ferrum.network/nwp/assets/ShoeFy/tokenLogo-SHOEFY-Cross-Chain-Token-Bridge-Ferrum-Network-Taha-Abbasi.png"
