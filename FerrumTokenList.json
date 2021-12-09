@@ -607,6 +607,22 @@
 			"symbol": "SHOE",
 			"decimals": 18,
 			"logoURI": "https://ferrum.network/nwp/assets/ShoeFy/tokenLogo-SHOEFY-Cross-Chain-Token-Bridge-Ferrum-Network-Taha-Abbasi.png"
+		},
+		{
+			"address": "0x48079ae7d759b2462837fa11e6c7fcd1a45f078d",
+			"chainId": 97,
+			"name": "Yarloo",
+			"symbol": "YARL",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/Yarloo/Yarloo%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+		},
+		{
+			"address": "0x48079ae7d759b2462837fa11e6c7fcd1a45f078d",
+			"chainId": 80001,
+			"name": "Yarloo",
+			"symbol": "YARL",
+			"decimals": 18,
+			"logoURI": "https://ferrum.network/nwp/bridge-assets/Yarloo/Yarloo%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
 		}
 	]
 }
