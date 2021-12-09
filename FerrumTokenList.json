@@ -153,6 +153,14 @@
 		"logoURI": "https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
 		},
 		{
+		"address": "0x3c205c8b3e02421da82064646788c82f7bd753b9",
+		"chainId": 137,
+		"name": "PureFi",
+		"symbol": "UFI",
+		"decimals": 18,
+		"logoURI": "https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
+		},
+		{
 		"address": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
 		"chainId": 1,
 		"name": "Ferrum Network Token",
