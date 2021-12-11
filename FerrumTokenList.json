@@ -1,628 +1,633 @@
 {
-	"name": "frm",
-	"timestamp": "2021-07-28T18:24:17+00:00",
-	"version": {
-		"major": 1,
-		"minor": 0,
-		"patch": 0
-	},
-	"keywords": ["ferrum", "unifyre", "default", "list"],
-	"tokens": [
-		{
-		"address": "0x2ce13e4199443fdfff531abb30c9b6594446bbc7",
-		"chainId": 137,
-		"name": "Rocket Vault (PoS) (RVF)",
-		"symbol": "RVF",
-		"decimals": 18,
-		"logoURI": "https://etherscan.io/token/images/rocketvault_32.png"
-		},
-		{
-		"address": "0xd99bafe5031cc8b345cb2e8c80135991f12d7130",
-		"chainId": 137,
-		"name": "Ferrum Network Token",
-		"symbol": "FRM",
-		"decimals": 18,
-		"logoURI": "https://etherscan.io/token/images/ferrumnetworktoken_32.png"
-		},
-		{
-		"address": "0xfe00ee6f00dd7ed533157f6250656b4e007e7179",
-		"chainId": 4,
-		"name": "Ferrum Network Token",
-		"symbol": "FRM",
-		"decimals": 18,
-		"logoURI": "https://etherscan.io/token/images/ferrumnetworktoken_32.png"
-		},
-		{
-		"address": "0xfe00ee6f00dd7ed533157f6250656b4e007e7179",
-		"chainId": 97,
-		"name": "Ferrum Network Token",
-		"symbol": "FRM",
-		"decimals": 18,
-		"logoURI": "https://etherscan.io/token/images/ferrumnetworktoken_32.png"
-		},
-		{
-		"address": "0xc7b58945a08aa90f6db6440fb0bcc22fb45e6e98",
-		"chainId": 4,
-		"name": "Rocket Vault (PoS) (RVF)",
-		"symbol": "RVF",
-		"decimals": 18,
-		"logoURI": "https://etherscan.io/token/images/rocketvault_32.png"
-		},
-		{
-		"address": "0x10528015eb4a47765acafd7711f96042ad75ee4d",
-		"chainId": 4,
-		"name": "Inverse Project Token",
-		"symbol": "XIV",
-		"decimals": 18,
-		"logoURI": "https://etherscan.io/token/images/projectinverse_32.png?v=2"
-		},
-		{
-		"address": "0x82d47ab64dfa31d833d07ef35759d3ef694d21cc",
-		"chainId": 4,
-		"name": "Evolution Network Token",
-		"symbol": "EVN",
-		"decimals": 18,
-		"logoURI": "https://etherscan.io/token/images/evolutionfinance_32.png"
-		},
-		{
-		"address": "0x87e41175921d283c10ce42c9200aa3c8d51835a2",
-		"chainId": 56,
-		"name": "X22",
-		"symbol": "X22",
-		"decimals": 18,
-		"logoURI": "https://assets.coingecko.com/coins/images/17421/small/x22.PNG?1627600635"
-		},
-		{
-		"address": "0x41045282901e90bda7578d628e479e5421d1cdd5",
-		"chainId": 1,
-		"name": "X22",
-		"symbol": "X22",
-		"decimals": 18,
-		"logoURI": "https://assets.coingecko.com/coins/images/17421/small/x22.PNG?1627600635"
-		},
-		{
-		"address": "0x00518f36d2e0e514e8eb94d34124fc18ee756f10",
-		"chainId": 56,
-		"name": "INVERSE",
-		"symbol": "XIV",
-		"decimals": 18,
-		"logoURI": "https://etherscan.io/token/images/projectinverse_32.png?v=2"
-		},
-		{
-		"address": "0xc7b58945a08aa90f6db6440fb0bcc22fb45e6e98",
-		"chainId": 80001,
-		"name": "Rocket Vault (PoS) (RVF)",
-		"symbol": "RVF",
-		"decimals": 18,
-		"logoURI": "https://etherscan.io/token/images/rocketvault_32.png"
-		},
-		{
-		"address": "0x1a4fa8b00db7f5f227145a97d7e28bb2e0defbf4",
-		"chainId": 97,
-		"name": "Rocket Vault (PoS) (RVF)",
-		"symbol": "RVF",
-		"decimals": 18,
-		"logoURI": "https://etherscan.io/token/images/rocketvault_32.png"
-		},
-		{
-		"address": "0xfe00ee6f00dd7ed533157f6250656b4e007e7179",
-		"chainId": 80001,
-		"name": "Ferrum Network Token",
-		"symbol": "FRM",
-		"decimals": 18,
-		"logoURI": "https://assets.coingecko.com/coins/images/8251/small/frm.png?1563777564"
-		},
-		{
-		"address": "0xe1de1dc4de074e9c8bbf5e2d66cfdb4f0b2cb61a",
-		"chainId": 4,
-		"name": "PAID",
-		"symbol": "PAID",
-		"decimals": 18,
-		"logoURI": "https://assets.coingecko.com/coins/images/13761/small/PAID.png?1612493556"
-		},
-		{
-		"address": "0x532197ec38756b9956190b845d99b4b0a88e4ca9",
-		"chainId": 97,
-		"name": "PAID",
-		"symbol": "PAID",
-		"decimals": 18,
-		"logoURI": "https://assets.coingecko.com/coins/images/13761/small/PAID.png?1612493556"
-		},
-		{
-		"address": "0x9583A06328873C0aF0e905b785f8530877920B61",
-		"chainId": 4,
-		"name": "PureFi",
-		"symbol": "UFI",
-		"decimals": 18,
-		"logoURI": "https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
-		},
-		{
-		"address": "0xa729BF41f8208FCEDFA3D5558dF210e86c9542fa",
-		"chainId": 97,
-		"name": "PureFi",
-		"symbol": "UFI",
-		"decimals": 18,
-		"logoURI": "https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
-		},
-		{
-		"address": "0xD6621cA6D505BBFFA891B61535c8C11820C5130b",
-		"chainId": 80001,
-		"name": "PureFi",
-		"symbol": "UFI",
-		"decimals": 18,
-		"logoURI": "https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
-		},
-		{
-		"address": "0x3c205c8b3e02421da82064646788c82f7bd753b9",
-		"chainId": 137,
-		"name": "PureFi",
-		"symbol": "UFI",
-		"decimals": 18,
-		"logoURI": "https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
-		},
-		{
-		"address": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
-		"chainId": 1,
-		"name": "Ferrum Network Token",
-		"symbol": "FRM",
-		"decimals": 6,
-		"logoURI": "https://assets.coingecko.com/coins/images/8251/thumb/frm.png?1563777564"
-		},
-                {
-		"address": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
-		"chainId": 1,
-		"name": "Rocket Vault",
-		"symbol": "RVF",
-		"decimals": 18,
-		"logoURI": "https://assets.coingecko.com/coins/images/14728/thumb/7.png?1618414105"
-		},
-                {
-		"address": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
-		"chainId": 1,
-		"name": "Rocket Vault",
-		"symbol": "RVF",
-		"decimals": 18,
-		"logoURI": "https://assets.coingecko.com/coins/images/14728/thumb/7.png?1618414105"
-		},
-                {
-		"address": "0x44f262622248027f8e2a8fb1090c4cf85072392c",
-		"chainId": 1,
-		"name": "INVERSE",
-		"symbol": "XIV",
-		"decimals": 18,
-		"logoURI": "https://assets.coingecko.com/coins/images/14231/thumb/photo_2021-06-07_22-10-41.jpg?1623075271"
-		},
-                {
-		"address": "0xa719b8ab7ea7af0ddb4358719a34631bb79d15dc",
-		"chainId": 56,
-		"name": "Ferrum Network Token",
-		"symbol": "FRM",
-		"decimals": 18,
-		"logoURI": "https://assets.coingecko.com/coins/images/8251/small/frm.png?1563777564"
-		},
-                {
-		"address": "0xf6832ea221ebfdc2363729721a146e6745354b14",
-		"chainId": 1,
-		"name": "FRMX Token",
-		"symbol": "FRMX",
-		"decimals": 18,
-		"logoURI": "https://etherscan.io/token/images/ferrum_32.png"
-		},
-                {
-		"address": "0x8523518001ad5d24b2a04e8729743c0643a316c0",
-		"chainId": 56,
-		"name": "FRMX Token",
-		"symbol": "FRMX",
-		"decimals": 18,
-		"logoURI": "https://etherscan.io/token/images/ferrum_32.png"
-		},
-                {
-		"address": "0x00e197ac4735f1d6a0a2f0df3947e6ed86d09260",
-		"chainId": 137,
-		"name": "FRMX Token",
-		"symbol": "FRMX",
-		"decimals": 18,
-		"logoURI": "https://etherscan.io/token/images/ferrum_32.png"
-		},
-                {
-		"address": "0xe2a59d5e33c6540e18aaa46bf98917ac3158db0d",
-		"chainId": 56,
-		"name": "PureFi Token",
-		"symbol": "UFI",
-		"decimals": 18,
-		"logoURI": "https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
-		},
-        {
-		"address": "0xcda4e840411c00a614ad9205caec807c7458a0e3",
-		"chainId": 1,
-		"name": "PureFi Token",
-		"symbol": "UFI",
-		"decimals": 18,
-		"logoURI": "https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
-		},
-		{
-		"address": "0xf2d3f6846ab7bc3e860c6f2c8c0b8ffbbdfc9931",
-		"chainId": 80001,
-		"name": "PureFi Token",
-		"symbol": "UFI",
-		"decimals": 18,
-		"logoURI": "https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
-		},
-		{
-			"address": "0x3a9c1a3d0dda6a025794626afd2a4c7b7e740712",
-			"chainId": 4,
-			"name": "Spores Network",
-			"symbol": "SPO",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/17431/small/SPO_token.png?1627619762"
-		},
-		{
-			"address": "0xcbe771323587ea16dacb6016e269d7f08a7acc4e",
-			"chainId": 1,
-			"name": "Spores Network",
-			"symbol": "SPO",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/17431/small/SPO_token.png?1627619762"
-		},
-		{
-			"address": "0x8357c604c5533fa0053beaaa1494da552cea38f7",
-			"chainId": 56,
-			"name": "Spores Network",
-			"symbol": "SPO",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/17431/small/SPO_token.png?1627619762"
-		},
-		{
-			"address": "0x8ba461bd61bac52fbe993b456767245264ec503f",
-			"chainId": 97,
-			"name": "Spores Network",
-			"symbol": "SPO",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/17431/small/SPO_token.png?1627619762"
-		},
-		{
-			"address": "0x84cffa78b2fbbeec8c37391d2b12a04d2030845e",
-			"chainId": 4,
-			"name": "Digital Fitness",
-			"symbol": "DEFIT",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/DEFIT/DEFIT_Token_Logo_Ferru%20m_Cross-Chain-Token_Bridge.png"
-		},
-		{
-			"address": "0xd24413290717276f73e8277facaa6d9de53eed5f",
-			"chainId": 97,
-			"name": "ISPOLINK",
-			"symbol": "ISPOLINK",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_FAVICON_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
-		},
-		{
-			"address": "0x6f48f2d0fda748f4ba47aa84ff80f135ae4e657b",
-			"chainId": 4,
-			"name": "ISPOLINK",
-			"symbol": "ISPOLINK",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_FAVICON_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
-		},
-		{
-			"address": "0xd2e7b964770fcf51df088a5f0bb2d33a3c60cccf",
-			"chainId": 56,
-			"name": "ISPOLINK",
-			"symbol": "ISPOLINK",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_FAVICON_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
-		},
-		{
-			"address": "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
-			"chainId": 1,
-			"name": "ISPOLINK",
-			"symbol": "ISPOLINK",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_FAVICON_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
-		},
-		{
-			"address": "0x91b988d8134e3947e5d21a03533e23f7a0b272ef",
-			"chainId": 97,
-			"name": "SIGNATA",
-			"symbol": "SATA",
-			"decimals": 18,
-			"logoURI": "http://ferrum.network/nwp/bridge-assets/Signata/signata%20token%20logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
-		},
-		{
-			"address": "0x46da373d7676248805b56392df4e92f7ac64b2f6",
-			"chainId": 4,
-			"name": "SIGNATA",
-			"symbol": "SATA",
-			"decimals": 18,
-			"logoURI": " http://ferrum.network/nwp/bridge-assets/Signata/signata%20token%20logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
-		},
-		{
-			"address": "0x3ebb4a4e91ad83be51f8d596533818b246f4bee1",
-			"chainId": 1,
-			"name": "SIGNATA",
-			"symbol": "SATA",
-			"decimals": 18,
-			"logoURI": "http://ferrum.network/nwp/bridge-assets/Signata/signata%20token%20logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
-		},
-		{
-			"address": "0x6b1c8765c7eff0b60706b0ae489eb9bb9667465a",
-			"chainId": 56,
-			"name": "SIGNATA",
-			"symbol": "SATA",
-			"decimals": 18,
-			"logoURI": " http://ferrum.network/nwp/bridge-assets/Signata/signata%20token%20logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
-		},
-		{
-			"address": "0x84cffa78b2fbbeec8c37391d2b12a04d2030845e",
-			"chainId": 1,
-			"name": "Digital Fitness",
-			"symbol": "DEFIT",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/DEFIT/DEFIT_Token_Logo_Ferru%20m_Cross-Chain-Token_Bridge.png"
-		},
-		{
-			"address": "0x428360b02c1269bc1c79fbc399ad31d58c1e8fda",
-			"chainId": 137,
-			"name": "Digital Fitness",
-			"symbol": "DEFIT",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/DEFIT/DEFIT_Token_Logo_Ferru%20m_Cross-Chain-Token_Bridge.png"
-		},
-		{
-			"address": "0x240b3de058b00d68bf1c2052da45e62998ea8160",
-			"chainId": 80001,
-			"name": "Digital Fitness",
-			"symbol": "DEFIT",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/DEFIT/DEFIT_Token_Logo_Ferru%20m_Cross-Chain-Token_Bridge.png"
-		},
-		{
-			"address": "0x872a34ebb2d54af86827810eebc7b9dc6b2144aa",
-			"chainId": 56,
-			"name": "RocketVaultRocketX",
-			"symbol": "RVF",
-			"decimals": 18,
-			"logoURI": "https://etherscan.io/token/images/rocketvault_32.png"
-		},
-		{
-			"address": "0xda9c2064687ff02e1331efb39d1be0bc5db600f6",
-			"chainId": 4,
-			"name": "Singularity Dao",
-			"symbol": "SDAO",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
-		},
-		{
-			"address": "0xfb85b9ec50560e302ab106f1e2857d95132120d0",
-			"chainId": 97,
-			"name": "Singularity Dao",
-			"symbol": "SDAO",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
-		},
-		{
-			"address": "0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
-			"chainId": 1,
-			"name": "Singularity Dao",
-			"symbol": "SDAO",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
-		},
-		{
-			"address": "0x90ed8f1dc86388f14b64ba8fb4bbd23099f18240",
-			"chainId": 56,
-			"name": "Singularity Dao",
-			"symbol": "SDAO",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
-		},
-		{
-			"address": "0xf02943f39a60e029362f83bf462c7f6bbb310f2c",
-			"chainId": 4,
-			"name": "CRYSTL-FerrumBridgeTest",
-			"symbol": "SDAOFRMBT",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/CRYSTL/CRYSTL-FAVICON-300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
-		},
-		{
-			"address": "0x78bd7a60fddca071c2f68d306dbec11819c35ad9",
-			"chainId": 97,
-			"name": "CRYSTL-FerrumBridgeTest",
-			"symbol": "SDAOFRMBT",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/CRYSTL/CRYSTL-FAVICON-300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
-		},
-		{
-			"address": "0xd6a66de4d61d7ba4e54bde27f0e54e6e7b6a568c",
-			"chainId": 80001,
-			"name": "CRYSTL-FerrumBridgeTest",
-			"symbol": "SDAOFRMBT",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/CRYSTL/CRYSTL-FAVICON-300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
-		},
-		{
-			"address": "0xb5382dfba952a41a2f2d0b7313c3578b83d32be0",
-			"chainId": 4,
-			"name": "Hackathon bloXmove Token",
-			"symbol": "HBLXM-E",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
-		},
-		{
-			"address": "0x6703bb029a9b2d44f8e21ec7f635c5a0b06743fa",
-			"chainId": 97,
-			"name": "Hackathon bloXmove Token",
-			"symbol": "HBLXM-E",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
-		},
-		{
-			"address": "0xb0496119df388fdfb499cd6415a249004ab9b9cb",
-			"chainId": 4,
-			"name": "Test bloXmove Token",
-			"symbol": "TBLXM",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
-		},
-		{
-			"address": "0xcaf1d97ec698ae7f297d4af961579a4cd9a88971",
-			"chainId": 97,
-			"name": "Test bloXmove Token",
-			"symbol": "TBLXM",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
-		},
-		{
-			"address": "0x38d9eb07a7b8df7d86f440a4a5c4a4c1a27e1a08",
-			"chainId": 1,
-			"name": "bloXmove Token",
-			"symbol": "BLXM",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
-		},
-		{
-			"address": "0x40e51e0ec04283e300f12f6bb98da157bb22036e",
-			"chainId": 56,
-			"name": "bloXmove Token",
-			"symbol": "BLXM",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
-		},
-		{
-			"address": "0x6481bfa9a0b57c1f14afc889e1f3f3ac19b25e5d",
-			"chainId": 4,
-			"name": "Trial",
-			"symbol": "TRL",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/Trial/Trial%20Token%20Logo%20-%20Ferrum%20Network%20-%20Taha%20Abbasi.png"
-		},
-		{
-			"address": "0x323074e05a036657C3E57c499Ed375A25AB16293",
-			"chainId": 97,
-			"name": "Trial",
-			"symbol": "TRL",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/Trial/Trial%20Token%20Logo%20-%20Ferrum%20Network%20-%20Taha%20Abbasi.png"
-		},
-		{
-			"address": "0x58f9102bf53cf186682bd9a281d3cd3c616eec41",
-			"chainId": 1,
-			"name": "Trial",
-			"symbol": "TRL",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/Trial/Trial%20Token%20Logo%20-%20Ferrum%20Network%20-%20Taha%20Abbasi.png"
-		},
-		{
-			"address": "0xe2eb47954e821dc94e19013677004cd59be0b17f",
-			"chainId": 56,
-			"name": "Trial",
-			"symbol": "TRL",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/Trial/Trial%20Token%20Logo%20-%20Ferrum%20Network%20-%20Taha%20Abbasi.png"
-		},
-		{
-			"address": "0xdd710f58978004dbb8fec09e97a4805e64adc53f",
-			"chainId": 4,
-			"name": "XCELDEFI",
-			"symbol": "XLD",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/XcelDefi/xceldefi%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
-		},
-		{
-			"address": "0x6B90a3975c7D66e118121883F5290635bb0F6A82",
-			"chainId": 97,
-			"name": "XCELDEFI",
-			"symbol": "XLD",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/XcelDefi/xceldefi%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
-		},
-		{
-			"address": "0x609059fb21ddb42a36d28b6b89b7cd6ca0addadd",
-			"chainId": 1,
-			"name": "XCELDEFI",
-			"symbol": "XLD",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/XcelDefi/xceldefi%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
-		},
-		{
-			"address": "0xc79d1fd14f514cd713b5ca43d288a782ae53eab2",
-			"chainId": 56,
-			"name": "XCELDEFI",
-			"symbol": "XLD",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/XcelDefi/xceldefi%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
-		},
-		{
-			"address": "0xeb2c7a8409840c0fc35a3230cd6e81b4f27b3aac",
-			"chainId": 43113,
-			"name": "Ahmed Ferrum",
-			"symbol": "AFRM",
-			"decimals": 18,
-			"logoURI": "https://i.imgur.com/Sr7RAd6.png"
-		},
-		{
-			"address": "0x5600bbe2a0ff23d5d07286a933b89348030b0993",
-			"chainId": 1287,
-			"name": "Ahmed Ferrum",
-			"symbol": "AFRM",
-			"decimals": 18,
-			"logoURI": "https://i.imgur.com/nCXvb8C.png"
-		},
-		{
-			"address": "0xd401a6140885fcdbd240426603696e2e7ff2de46",
-			"chainId": 4,
-			"name": "Ahmed Ferrum",
-			"symbol": "AFRM",
-			"decimals": 18,
-			"logoURI": "https://i.imgur.com/Sr7RAd6.png"
-		},
-		{
-			"address": "0x0fd67b4ceb9b607ef206904ec73459c4880132c9",
-			"chainId": 4,
-			"name": "ShoeFy",
-			"symbol": "SHOE",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/assets/ShoeFy/tokenLogo-SHOEFY-Cross-Chain-Token-Bridge-Ferrum-Network-Taha-Abbasi.png"
-		},
-		{
-			"address": "0x0fd67b4ceb9b607ef206904ec73459c4880132c9",
-			"chainId": 97,
-			"name": "ShoeFy",
-			"symbol": "SHOE",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/assets/ShoeFy/tokenLogo-SHOEFY-Cross-Chain-Token-Bridge-Ferrum-Network-Taha-Abbasi.png"
-		},
-		{
-			"address": "0x0fd67b4ceb9b607ef206904ec73459c4880132c9",
-			"chainId": 1,
-			"name": "ShoeFy",
-			"symbol": "SHOE",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/assets/ShoeFy/tokenLogo-SHOEFY-Cross-Chain-Token-Bridge-Ferrum-Network-Taha-Abbasi.png"
-		},
-		{
-			"address": "0xc0f42b31d154234a0a3ebe7ec52c662101c1d9bc",
-			"chainId": 56,
-			"name": "ShoeFy",
-			"symbol": "SHOE",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/assets/ShoeFy/tokenLogo-SHOEFY-Cross-Chain-Token-Bridge-Ferrum-Network-Taha-Abbasi.png"
-		},
-		{
-			"address": "0x48079ae7d759b2462837fa11e6c7fcd1a45f078d",
-			"chainId": 97,
-			"name": "Yarloo",
-			"symbol": "YARL",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/Yarloo/Yarloo%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
-		},
-		{
-			"address": "0x0b09bA640aBb61daCDf79FDD9358837a9afBbb5e",
-			"chainId": 80001,
-			"name": "Yarloo",
-			"symbol": "YARL",
-			"decimals": 18,
-			"logoURI": "https://ferrum.network/nwp/bridge-assets/Yarloo/Yarloo%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
-		}
-	]
+   "name":"frm",
+   "timestamp":"2021-07-28T18:24:17+00:00",
+   "version":{
+      "major":1,
+      "minor":0,
+      "patch":0
+   },
+   "keywords":[
+      "ferrum",
+      "unifyre",
+      "default",
+      "list"
+   ],
+   "tokens":[
+      {
+         "address":"0x2ce13e4199443fdfff531abb30c9b6594446bbc7",
+         "chainId":137,
+         "name":"Rocket Vault (PoS) (RVF)",
+         "symbol":"RVF",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/rocketvault_32.png"
+      },
+      {
+         "address":"0xd99bafe5031cc8b345cb2e8c80135991f12d7130",
+         "chainId":137,
+         "name":"Ferrum Network Token",
+         "symbol":"FRM",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/ferrumnetworktoken_32.png"
+      },
+      {
+         "address":"0xfe00ee6f00dd7ed533157f6250656b4e007e7179",
+         "chainId":4,
+         "name":"Ferrum Network Token",
+         "symbol":"FRM",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/ferrumnetworktoken_32.png"
+      },
+      {
+         "address":"0xfe00ee6f00dd7ed533157f6250656b4e007e7179",
+         "chainId":97,
+         "name":"Ferrum Network Token",
+         "symbol":"FRM",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/ferrumnetworktoken_32.png"
+      },
+      {
+         "address":"0xc7b58945a08aa90f6db6440fb0bcc22fb45e6e98",
+         "chainId":4,
+         "name":"Rocket Vault (PoS) (RVF)",
+         "symbol":"RVF",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/rocketvault_32.png"
+      },
+      {
+         "address":"0x10528015eb4a47765acafd7711f96042ad75ee4d",
+         "chainId":4,
+         "name":"Inverse Project Token",
+         "symbol":"XIV",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/projectinverse_32.png?v=2"
+      },
+      {
+         "address":"0x82d47ab64dfa31d833d07ef35759d3ef694d21cc",
+         "chainId":4,
+         "name":"Evolution Network Token",
+         "symbol":"EVN",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/evolutionfinance_32.png"
+      },
+      {
+         "address":"0x87e41175921d283c10ce42c9200aa3c8d51835a2",
+         "chainId":56,
+         "name":"X22",
+         "symbol":"X22",
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/17421/small/x22.PNG?1627600635"
+      },
+      {
+         "address":"0x41045282901e90bda7578d628e479e5421d1cdd5",
+         "chainId":1,
+         "name":"X22",
+         "symbol":"X22",
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/17421/small/x22.PNG?1627600635"
+      },
+      {
+         "address":"0x00518f36d2e0e514e8eb94d34124fc18ee756f10",
+         "chainId":56,
+         "name":"INVERSE",
+         "symbol":"XIV",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/projectinverse_32.png?v=2"
+      },
+      {
+         "address":"0xc7b58945a08aa90f6db6440fb0bcc22fb45e6e98",
+         "chainId":80001,
+         "name":"Rocket Vault (PoS) (RVF)",
+         "symbol":"RVF",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/rocketvault_32.png"
+      },
+      {
+         "address":"0x1a4fa8b00db7f5f227145a97d7e28bb2e0defbf4",
+         "chainId":97,
+         "name":"Rocket Vault (PoS) (RVF)",
+         "symbol":"RVF",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/rocketvault_32.png"
+      },
+      {
+         "address":"0xfe00ee6f00dd7ed533157f6250656b4e007e7179",
+         "chainId":80001,
+         "name":"Ferrum Network Token",
+         "symbol":"FRM",
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/8251/small/frm.png?1563777564"
+      },
+      {
+         "address":"0xe1de1dc4de074e9c8bbf5e2d66cfdb4f0b2cb61a",
+         "chainId":4,
+         "name":"PAID",
+         "symbol":"PAID",
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/13761/small/PAID.png?1612493556"
+      },
+      {
+         "address":"0x532197ec38756b9956190b845d99b4b0a88e4ca9",
+         "chainId":97,
+         "name":"PAID",
+         "symbol":"PAID",
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/13761/small/PAID.png?1612493556"
+      },
+      {
+         "address":"0x9583A06328873C0aF0e905b785f8530877920B61",
+         "chainId":4,
+         "name":"PureFi",
+         "symbol":"UFI",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
+      },
+      {
+         "address":"0xa729BF41f8208FCEDFA3D5558dF210e86c9542fa",
+         "chainId":97,
+         "name":"PureFi",
+         "symbol":"UFI",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
+      },
+      {
+         "address":"0xD6621cA6D505BBFFA891B61535c8C11820C5130b",
+         "chainId":80001,
+         "name":"PureFi",
+         "symbol":"UFI",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
+      },
+      {
+         "address":"0x3c205c8b3e02421da82064646788c82f7bd753b9",
+         "chainId":137,
+         "name":"PureFi",
+         "symbol":"UFI",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
+      },
+      {
+         "address":"0xe5caef4af8780e59df925470b050fb23c43ca68c",
+         "chainId":1,
+         "name":"Ferrum Network Token",
+         "symbol":"FRM",
+         "decimals":6,
+         "logoURI":"https://assets.coingecko.com/coins/images/8251/thumb/frm.png?1563777564"
+      },
+      {
+         "address":"0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
+         "chainId":1,
+         "name":"Rocket Vault",
+         "symbol":"RVF",
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/14728/thumb/7.png?1618414105"
+      },
+      {
+         "address":"0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
+         "chainId":1,
+         "name":"Rocket Vault",
+         "symbol":"RVF",
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/14728/thumb/7.png?1618414105"
+      },
+      {
+         "address":"0x44f262622248027f8e2a8fb1090c4cf85072392c",
+         "chainId":1,
+         "name":"INVERSE",
+         "symbol":"XIV",
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/14231/thumb/photo_2021-06-07_22-10-41.jpg?1623075271"
+      },
+      {
+         "address":"0xa719b8ab7ea7af0ddb4358719a34631bb79d15dc",
+         "chainId":56,
+         "name":"Ferrum Network Token",
+         "symbol":"FRM",
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/8251/small/frm.png?1563777564"
+      },
+      {
+         "address":"0xf6832ea221ebfdc2363729721a146e6745354b14",
+         "chainId":1,
+         "name":"FRMX Token",
+         "symbol":"FRMX",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/ferrum_32.png"
+      },
+      {
+         "address":"0x8523518001ad5d24b2a04e8729743c0643a316c0",
+         "chainId":56,
+         "name":"FRMX Token",
+         "symbol":"FRMX",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/ferrum_32.png"
+      },
+      {
+         "address":"0x00e197ac4735f1d6a0a2f0df3947e6ed86d09260",
+         "chainId":137,
+         "name":"FRMX Token",
+         "symbol":"FRMX",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/ferrum_32.png"
+      },
+      {
+         "address":"0xe2a59d5e33c6540e18aaa46bf98917ac3158db0d",
+         "chainId":56,
+         "name":"PureFi Token",
+         "symbol":"UFI",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
+      },
+      {
+         "address":"0xcda4e840411c00a614ad9205caec807c7458a0e3",
+         "chainId":1,
+         "name":"PureFi Token",
+         "symbol":"UFI",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
+      },
+      {
+         "address":"0xf2d3f6846ab7bc3e860c6f2c8c0b8ffbbdfc9931",
+         "chainId":80001,
+         "name":"PureFi Token",
+         "symbol":"UFI",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/PureFi/PureFi%20-%20Token%20Logo%20-%20Ferrum%20Network%20Cross-chain%20Token%20Bridge%20-%20DEFI%20-%20STAKING%20-%20DEX.png"
+      },
+      {
+         "address":"0x3a9c1a3d0dda6a025794626afd2a4c7b7e740712",
+         "chainId":4,
+         "name":"Spores Network",
+         "symbol":"SPO",
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/17431/small/SPO_token.png?1627619762"
+      },
+      {
+         "address":"0xcbe771323587ea16dacb6016e269d7f08a7acc4e",
+         "chainId":1,
+         "name":"Spores Network",
+         "symbol":"SPO",
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/17431/small/SPO_token.png?1627619762"
+      },
+      {
+         "address":"0x8357c604c5533fa0053beaaa1494da552cea38f7",
+         "chainId":56,
+         "name":"Spores Network",
+         "symbol":"SPO",
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/17431/small/SPO_token.png?1627619762"
+      },
+      {
+         "address":"0x8ba461bd61bac52fbe993b456767245264ec503f",
+         "chainId":97,
+         "name":"Spores Network",
+         "symbol":"SPO",
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/17431/small/SPO_token.png?1627619762"
+      },
+      {
+         "address":"0x84cffa78b2fbbeec8c37391d2b12a04d2030845e",
+         "chainId":4,
+         "name":"Digital Fitness",
+         "symbol":"DEFIT",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/DEFIT/DEFIT_Token_Logo_Ferru%20m_Cross-Chain-Token_Bridge.png"
+      },
+      {
+         "address":"0xd24413290717276f73e8277facaa6d9de53eed5f",
+         "chainId":97,
+         "name":"ISPOLINK",
+         "symbol":"ISPOLINK",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_FAVICON_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+      },
+      {
+         "address":"0x6f48f2d0fda748f4ba47aa84ff80f135ae4e657b",
+         "chainId":4,
+         "name":"ISPOLINK",
+         "symbol":"ISPOLINK",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_FAVICON_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+      },
+      {
+         "address":"0xd2e7b964770fcf51df088a5f0bb2d33a3c60cccf",
+         "chainId":56,
+         "name":"ISPOLINK",
+         "symbol":"ISPOLINK",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_FAVICON_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+      },
+      {
+         "address":"0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
+         "chainId":1,
+         "name":"ISPOLINK",
+         "symbol":"ISPOLINK",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/ISPO/ISPO_FAVICON_Logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+      },
+      {
+         "address":"0x91b988d8134e3947e5d21a03533e23f7a0b272ef",
+         "chainId":97,
+         "name":"SIGNATA",
+         "symbol":"SATA",
+         "decimals":18,
+         "logoURI":"http://ferrum.network/nwp/bridge-assets/Signata/signata%20token%20logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+      },
+      {
+         "address":"0x46da373d7676248805b56392df4e92f7ac64b2f6",
+         "chainId":4,
+         "name":"SIGNATA",
+         "symbol":"SATA",
+         "decimals":18,
+         "logoURI":" http://ferrum.network/nwp/bridge-assets/Signata/signata%20token%20logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+      },
+      {
+         "address":"0x3ebb4a4e91ad83be51f8d596533818b246f4bee1",
+         "chainId":1,
+         "name":"SIGNATA",
+         "symbol":"SATA",
+         "decimals":18,
+         "logoURI":"http://ferrum.network/nwp/bridge-assets/Signata/signata%20token%20logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+      },
+      {
+         "address":"0x6b1c8765c7eff0b60706b0ae489eb9bb9667465a",
+         "chainId":56,
+         "name":"SIGNATA",
+         "symbol":"SATA",
+         "decimals":18,
+         "logoURI":" http://ferrum.network/nwp/bridge-assets/Signata/signata%20token%20logo_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+      },
+      {
+         "address":"0x84cffa78b2fbbeec8c37391d2b12a04d2030845e",
+         "chainId":1,
+         "name":"Digital Fitness",
+         "symbol":"DEFIT",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/DEFIT/DEFIT_Token_Logo_Ferru%20m_Cross-Chain-Token_Bridge.png"
+      },
+      {
+         "address":"0x428360b02c1269bc1c79fbc399ad31d58c1e8fda",
+         "chainId":137,
+         "name":"Digital Fitness",
+         "symbol":"DEFIT",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/DEFIT/DEFIT_Token_Logo_Ferru%20m_Cross-Chain-Token_Bridge.png"
+      },
+      {
+         "address":"0x240b3de058b00d68bf1c2052da45e62998ea8160",
+         "chainId":80001,
+         "name":"Digital Fitness",
+         "symbol":"DEFIT",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/DEFIT/DEFIT_Token_Logo_Ferru%20m_Cross-Chain-Token_Bridge.png"
+      },
+      {
+         "address":"0x872a34ebb2d54af86827810eebc7b9dc6b2144aa",
+         "chainId":56,
+         "name":"RocketVaultRocketX",
+         "symbol":"RVF",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/rocketvault_32.png"
+      },
+      {
+         "address":"0xda9c2064687ff02e1331efb39d1be0bc5db600f6",
+         "chainId":4,
+         "name":"Singularity Dao",
+         "symbol":"SDAO",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0xfb85b9ec50560e302ab106f1e2857d95132120d0",
+         "chainId":97,
+         "name":"Singularity Dao",
+         "symbol":"SDAO",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
+         "chainId":1,
+         "name":"Singularity Dao",
+         "symbol":"SDAO",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0x90ed8f1dc86388f14b64ba8fb4bbd23099f18240",
+         "chainId":56,
+         "name":"Singularity Dao",
+         "symbol":"SDAO",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0xf02943f39a60e029362f83bf462c7f6bbb310f2c",
+         "chainId":4,
+         "name":"CRYSTL-FerrumBridgeTest",
+         "symbol":"SDAOFRMBT",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/CRYSTL/CRYSTL-FAVICON-300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0x78bd7a60fddca071c2f68d306dbec11819c35ad9",
+         "chainId":97,
+         "name":"CRYSTL-FerrumBridgeTest",
+         "symbol":"SDAOFRMBT",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/CRYSTL/CRYSTL-FAVICON-300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0xd6a66de4d61d7ba4e54bde27f0e54e6e7b6a568c",
+         "chainId":80001,
+         "name":"CRYSTL-FerrumBridgeTest",
+         "symbol":"SDAOFRMBT",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/CRYSTL/CRYSTL-FAVICON-300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0xb5382dfba952a41a2f2d0b7313c3578b83d32be0",
+         "chainId":4,
+         "name":"Hackathon bloXmove Token",
+         "symbol":"HBLXM-E",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0x6703bb029a9b2d44f8e21ec7f635c5a0b06743fa",
+         "chainId":97,
+         "name":"Hackathon bloXmove Token",
+         "symbol":"HBLXM-E",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0xb0496119df388fdfb499cd6415a249004ab9b9cb",
+         "chainId":4,
+         "name":"Test bloXmove Token",
+         "symbol":"TBLXM",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0xcaf1d97ec698ae7f297d4af961579a4cd9a88971",
+         "chainId":97,
+         "name":"Test bloXmove Token",
+         "symbol":"TBLXM",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0x38d9eb07a7b8df7d86f440a4a5c4a4c1a27e1a08",
+         "chainId":1,
+         "name":"bloXmove Token",
+         "symbol":"BLXM",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0x40e51e0ec04283e300f12f6bb98da157bb22036e",
+         "chainId":56,
+         "name":"bloXmove Token",
+         "symbol":"BLXM",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/Bloxmove/Bloxmove-Token-Logo-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0x6481bfa9a0b57c1f14afc889e1f3f3ac19b25e5d",
+         "chainId":4,
+         "name":"Trial",
+         "symbol":"TRL",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/Trial/Trial%20Token%20Logo%20-%20Ferrum%20Network%20-%20Taha%20Abbasi.png"
+      },
+      {
+         "address":"0x323074e05a036657C3E57c499Ed375A25AB16293",
+         "chainId":97,
+         "name":"Trial",
+         "symbol":"TRL",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/Trial/Trial%20Token%20Logo%20-%20Ferrum%20Network%20-%20Taha%20Abbasi.png"
+      },
+      {
+         "address":"0x58f9102bf53cf186682bd9a281d3cd3c616eec41",
+         "chainId":1,
+         "name":"Trial",
+         "symbol":"TRL",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/Trial/Trial%20Token%20Logo%20-%20Ferrum%20Network%20-%20Taha%20Abbasi.png"
+      },
+      {
+         "address":"0xe2eb47954e821dc94e19013677004cd59be0b17f",
+         "chainId":56,
+         "name":"Trial",
+         "symbol":"TRL",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/Trial/Trial%20Token%20Logo%20-%20Ferrum%20Network%20-%20Taha%20Abbasi.png"
+      },
+      {
+         "address":"0xdd710f58978004dbb8fec09e97a4805e64adc53f",
+         "chainId":4,
+         "name":"XCELDEFI",
+         "symbol":"XLD",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/XcelDefi/xceldefi%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+      },
+      {
+         "address":"0x6B90a3975c7D66e118121883F5290635bb0F6A82",
+         "chainId":97,
+         "name":"XCELDEFI",
+         "symbol":"XLD",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/XcelDefi/xceldefi%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+      },
+      {
+         "address":"0x609059fb21ddb42a36d28b6b89b7cd6ca0addadd",
+         "chainId":1,
+         "name":"XCELDEFI",
+         "symbol":"XLD",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/XcelDefi/xceldefi%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+      },
+      {
+         "address":"0xc79d1fd14f514cd713b5ca43d288a782ae53eab2",
+         "chainId":56,
+         "name":"XCELDEFI",
+         "symbol":"XLD",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/XcelDefi/xceldefi%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+      },
+      {
+         "address":"0xeb2c7a8409840c0fc35a3230cd6e81b4f27b3aac",
+         "chainId":43113,
+         "name":"Ahmed Ferrum",
+         "symbol":"AFRM",
+         "decimals":18,
+         "logoURI":"https://i.imgur.com/Sr7RAd6.png"
+      },
+      {
+         "address":"0x5600bbe2a0ff23d5d07286a933b89348030b0993",
+         "chainId":1287,
+         "name":"Ahmed Ferrum",
+         "symbol":"AFRM",
+         "decimals":18,
+         "logoURI":"https://i.imgur.com/nCXvb8C.png"
+      },
+      {
+         "address":"0xd401a6140885fcdbd240426603696e2e7ff2de46",
+         "chainId":4,
+         "name":"Ahmed Ferrum",
+         "symbol":"AFRM",
+         "decimals":18,
+         "logoURI":"https://i.imgur.com/Sr7RAd6.png"
+      },
+      {
+         "address":"0x0fd67b4ceb9b607ef206904ec73459c4880132c9",
+         "chainId":4,
+         "name":"ShoeFy",
+         "symbol":"SHOE",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/assets/ShoeFy/tokenLogo-SHOEFY-Cross-Chain-Token-Bridge-Ferrum-Network-Taha-Abbasi.png"
+      },
+      {
+         "address":"0x0fd67b4ceb9b607ef206904ec73459c4880132c9",
+         "chainId":97,
+         "name":"ShoeFy",
+         "symbol":"SHOE",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/assets/ShoeFy/tokenLogo-SHOEFY-Cross-Chain-Token-Bridge-Ferrum-Network-Taha-Abbasi.png"
+      },
+      {
+         "address":"0x0fd67b4ceb9b607ef206904ec73459c4880132c9",
+         "chainId":1,
+         "name":"ShoeFy",
+         "symbol":"SHOE",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/assets/ShoeFy/tokenLogo-SHOEFY-Cross-Chain-Token-Bridge-Ferrum-Network-Taha-Abbasi.png"
+      },
+      {
+         "address":"0xc0f42b31d154234a0a3ebe7ec52c662101c1d9bc",
+         "chainId":56,
+         "name":"ShoeFy",
+         "symbol":"SHOE",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/assets/ShoeFy/tokenLogo-SHOEFY-Cross-Chain-Token-Bridge-Ferrum-Network-Taha-Abbasi.png"
+      },
+      {
+         "address":"0x48079ae7d759b2462837fa11e6c7fcd1a45f078d",
+         "chainId":97,
+         "name":"Yarloo",
+         "symbol":"YARL",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/Yarloo/Yarloo%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+      },
+      {
+         "address":"0x0b09ba640abb61dacdf79fdd9358837a9afbbb5e",
+         "chainId":80001,
+         "name":"Yarloo",
+         "symbol":"YARL",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/Yarloo/Yarloo%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+      }
+   ]
 }
