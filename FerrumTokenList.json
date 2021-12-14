@@ -582,21 +582,21 @@
          "logoURI":"https://i.imgur.com/Sr7RAd6.png"
       },
       {
-			"address": "0xc6b40838f0a542dd41693371dc3033363e246204",
-			"chainId": 1666700000,
-			"name": "Furqan Ferrum",
-			"symbol": "FFRM",
-			"decimals": 18,
-			"logoURI": "https://i.imgur.com/nCXvb8C.png"
-		},
-		{
-			"address": "0xC5515afF177254C90fD2e8b15bb941e2BCf70907",
-			"chainId": 4,
-			"name": "Furqan Ferrum",
-			"symbol": "FFRM",
-			"decimals": 18,
-			"logoURI": "https://i.imgur.com/Sr7RAd6.png"
-		},
+         "address":"0xc6b40838f0a542dd41693371dc3033363e246204",
+         "chainId":1666700000,
+         "name":"Furqan Ferrum",
+         "symbol":"FFRM",
+         "decimals":18,
+         "logoURI":"https://i.imgur.com/nCXvb8C.png"
+      },
+      {
+         "address":"0xC5515afF177254C90fD2e8b15bb941e2BCf70907",
+         "chainId":4,
+         "name":"Furqan Ferrum",
+         "symbol":"FFRM",
+         "decimals":18,
+         "logoURI":"https://i.imgur.com/Sr7RAd6.png"
+      },
       {
          "address":"0x0fd67b4ceb9b607ef206904ec73459c4880132c9",
          "chainId":4,
