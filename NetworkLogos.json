@@ -1,0 +1,34 @@
+{
+  "ETHEREUM" {
+    logoUri: "",
+    logoBase64: ""
+  },
+  "RINEKBY": {
+    logoUri: "",
+    logoBase64: ""
+  },
+  "BSC" {
+    logoUri: "",
+    logoBase64: ""
+  },
+  "BSC_TESTNET" {
+    logoUri: "",
+    logoBase64: ""
+  },
+  "POLYGON" {
+    logoUri: "",
+    logoBase64: ""
+  },
+  "MUMBAI_TESTNET" {
+    logoUri: "",
+    logoBase64: ""
+  },
+  "AVAX_MAINNET" {
+    logoUri: "",
+    logoBase64: ""
+  },
+  "AVAX_TESTNET" {
+    logoUri: "",
+    logoBase64: ""
+  }
+}
