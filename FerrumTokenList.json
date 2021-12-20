@@ -571,11 +571,35 @@
          "name":"Ahmed Ferrum",
          "symbol":"AFRM",
          "decimals":18,
-         "logoURI":"https://i.imgur.com/nCXvb8C.png"
+         "logoURI":"https://i.imgur.com/Sr7RAd6.png"
+      },
+      {
+         "address":"0x24d77a2edb682c3cadb320bb08a3aea07d339272",
+         "chainId":56,
+         "name":"Ahmed Ferrum",
+         "symbol":"AFRM",
+         "decimals":18,
+         "logoURI":"https://i.imgur.com/Sr7RAd6.png"
+      },
+      {
+         "address":"0x997109206fda586882ae5aaca74d36efe2417ca4",
+         "chainId":43114,
+         "name":"Ahmed Ferrum",
+         "symbol":"AFRM",
+         "decimals":18,
+         "logoURI":"https://i.imgur.com/Sr7RAd6.png"
       },
       {
          "address":"0xd401a6140885fcdbd240426603696e2e7ff2de46",
          "chainId":4,
+         "name":"Ahmed Ferrum",
+         "symbol":"AFRM",
+         "decimals":18,
+         "logoURI":"https://i.imgur.com/Sr7RAd6.png"
+      },
+      {
+         "address":"0xeb2c7a8409840c0fc35a3230cd6e81b4f27b3aac",
+         "chainId":1666700000,
          "name":"Ahmed Ferrum",
          "symbol":"AFRM",
          "decimals":18,
