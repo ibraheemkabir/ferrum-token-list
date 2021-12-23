@@ -1,5 +1,5 @@
 {
-  "ETHEREUM" {
+  "ETHEREUM": {
     logoUri: "",
     logoBase64: ""
   },
@@ -7,27 +7,27 @@
     logoUri: "",
     logoBase64: ""
   },
-  "BSC" {
+  "BSC": {
     logoUri: "",
     logoBase64: ""
   },
-  "BSC_TESTNET" {
+  "BSC_TESTNET": {
     logoUri: "",
     logoBase64: ""
   },
-  "POLYGON" {
+  "POLYGON": {
     logoUri: "",
     logoBase64: ""
   },
-  "MUMBAI_TESTNET" {
+  "MUMBAI_TESTNET": {
     logoUri: "",
     logoBase64: ""
   },
-  "AVAX_MAINNET" {
+  "AVAX_MAINNET": {
     logoUri: "",
     logoBase64: ""
   },
-  "AVAX_TESTNET" {
+  "AVAX_TESTNET": {
     logoUri: "",
     logoBase64: ""
   }
