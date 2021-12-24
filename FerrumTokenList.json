@@ -638,6 +638,14 @@
          "logoURI":"https://i.imgur.com/nCXvb8C.png"
       },
       {
+         "address":"0x119f3d197ad5eec0deae8e396c1d5cb04ad87626",
+         "chainId":81,
+         "name":"Furqan Ferrum",
+         "symbol":"FFRM",
+         "decimals":18,
+         "logoURI":"https://i.imgur.com/nCXvb8C.png"
+      },
+      {
          "address":"0xc5515aff177254c90fd2e8b15bb941e2bcf70907",
          "chainId":4,
          "name":"Furqan Ferrum",
