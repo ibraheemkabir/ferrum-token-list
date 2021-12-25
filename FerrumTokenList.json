@@ -47,6 +47,14 @@
       },
       {
          "address":"0xfe00ee6f00dd7ed533157f6250656b4e007e7179",
+         "chainId":43113,
+         "name":"Ferrum Network Token",
+         "symbol":"FRM",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/ferrumnetworktoken_32.png"
+      },
+      {
+         "address":"0xfe00ee6f00dd7ed533157f6250656b4e007e7179",
          "chainId":1666700000,
          "name":"Ferrum Network Token",
          "symbol":"FRM",
