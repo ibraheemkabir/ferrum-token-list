@@ -438,6 +438,22 @@
          "logoURI":"https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
       },
       {
+         "address":"0x1b493ce65a66e82dc6d09bf696609a4c797ed731",
+         "chainId":137,
+         "name":"Singularity Dao",
+         "symbol":"SDAO",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0xda9c2064687ff02e1331efb39d1be0bc5db600f6",
+         "chainId":80001,
+         "name":"Singularity Dao",
+         "symbol":"SDAO",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
          "address":"0xf02943f39a60e029362f83bf462c7f6bbb310f2c",
          "chainId":4,
          "name":"CRYSTL-FerrumBridgeTest",
