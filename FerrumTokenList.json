@@ -766,7 +766,7 @@
          "logoURI":"https://versoview.com/wp-content/uploads/2021/05/cropped-favicon-32x32.png"
       },
       {
-         "address":"0x755be920943eA95e39eE2DC437b268917B580D6e",
+         "address":"0x755be920943ea95e39ee2dc437b268917b580d6e",
          "chainId":1,
          "name":"VersoView",
          "symbol":"VVT",
