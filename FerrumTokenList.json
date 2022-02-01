@@ -702,6 +702,14 @@
          "logoURI":"https://i.imgur.com/Sr7RAd6.png"
       },
       {
+         "address":"0x2234157b16637afa6f1a7c1c34b1b80d82b50d82",
+         "chainId":336,
+         "name":"Furqan Ferrum",
+         "symbol":"FFRM",
+         "decimals":18,
+         "logoURI":"https://i.imgur.com/Sr7RAd6.png"
+      },
+      {
          "address":"0x0fd67b4ceb9b607ef206904ec73459c4880132c9",
          "chainId":4,
          "name":"ShoeFy",
