@@ -30,6 +30,14 @@
          "logoURI":"https://etherscan.io/token/images/ferrumnetworktoken_32.png"
       },
       {
+         "address":"0xe5caef4af8780e59df925470b050fb23c43ca68c",
+         "chainId":43114,
+         "name":"Ferrum Network Token",
+         "symbol":"FRM",
+         "decimals":18,
+         "logoURI":"https://etherscan.io/token/images/ferrumnetworktoken_32.png"
+      },
+      {
          "address":"0xfe00ee6f00dd7ed533157f6250656b4e007e7179",
          "chainId":4,
          "name":"Ferrum Network Token",
@@ -438,6 +446,30 @@
          "logoURI":"https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
       },
       {
+         "address":"0x1b493ce65a66e82dc6d09bf696609a4c797ed731",
+         "chainId":137,
+         "name":"Singularity Dao",
+         "symbol":"SDAO",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0xda9c2064687ff02e1331efb39d1be0bc5db600f6",
+         "chainId":80001,
+         "name":"Singularity Dao",
+         "symbol":"SDAO",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
+         "address":"0x1b493ce65a66e82dc6d09bf696609a4c797ed731",
+         "chainId":137,
+         "name":"Singularity Dao",
+         "symbol":"SDAO",
+         "decimals":18,
+         "logoURI":"https://ferrum.network/nwp/bridge-assets/SingularityDAO/SingularityDAO%20-%20Token%20Logo%20-%20300x300-Ferrum-Network-Cross-Chain-Token-Bridge-Taha-Abbasi.png"
+      },
+      {
          "address":"0xf02943f39a60e029362f83bf462c7f6bbb310f2c",
          "chainId":4,
          "name":"CRYSTL-FerrumBridgeTest",
@@ -678,6 +710,14 @@
          "logoURI":"https://i.imgur.com/Sr7RAd6.png"
       },
       {
+         "address":"0x2234157b16637afa6f1a7c1c34b1b80d82b50d82",
+         "chainId":336,
+         "name":"Furqan Ferrum",
+         "symbol":"FFRM",
+         "decimals":18,
+         "logoURI":"https://i.imgur.com/Sr7RAd6.png"
+      },
+      {
          "address":"0x0fd67b4ceb9b607ef206904ec73459c4880132c9",
          "chainId":4,
          "name":"ShoeFy",
@@ -724,6 +764,38 @@
          "symbol":"YARL",
          "decimals":18,
          "logoURI":"https://ferrum.network/nwp/bridge-assets/Yarloo/Yarloo%20favicon_Ferrum_Network_Cross-Chain_Defi_Staking_Bridge.png"
+      },
+      {
+         "address":"0x49fcabbf67e3763be1357e57abf6231b4abcf4b7",
+         "chainId":80001,
+         "name":"VersoView",
+         "symbol":"VVT",
+         "decimals":18,
+         "logoURI":"https://versoview.com/wp-content/uploads/2021/05/cropped-favicon-32x32.png"
+      },
+      {
+         "address":"0x2e900b3a454938e530ac5846533e8d80a313f3bb",
+         "chainId":4,
+         "name":"VersoView",
+         "symbol":"VVT",
+         "decimals":18,
+         "logoURI":"https://versoview.com/wp-content/uploads/2021/05/cropped-favicon-32x32.png"
+      },
+      {
+         "address":"0xd192bac61522e0bc13543528173e69c44472c93a",
+         "chainId":137,
+         "name":"VersoView",
+         "symbol":"VVT",
+         "decimals":18,
+         "logoURI":"https://versoview.com/wp-content/uploads/2021/05/cropped-favicon-32x32.png"
+      },
+      {
+         "address":"0x755be920943ea95e39ee2dc437b268917b580d6e",
+         "chainId":1,
+         "name":"VersoView",
+         "symbol":"VVT",
+         "decimals":18,
+         "logoURI":"https://versoview.com/wp-content/uploads/2021/05/cropped-favicon-32x32.png"
       }
    ]
 }
