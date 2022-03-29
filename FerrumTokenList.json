@@ -678,6 +678,14 @@
          "logoURI":"https://cryptologos.cc/logos/fantom-ftm-logo.png"
       },
       {
+         "address":"0x666dcf6f45c6cc0ac9f71cdee6f09b09c8fb19b7",
+         "chainId":81,
+         "name":"Ahmed Ferrum",
+         "symbol":"AFRM",
+         "decimals":18,
+         "logoURI":"https://i.imgur.com/Sr7RAd6.png"
+      },
+      {
          "address":"0xc6b40838f0a542dd41693371dc3033363e246204",
          "chainId":1666700000,
          "name":"Furqan Ferrum",
