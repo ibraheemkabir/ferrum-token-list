@@ -134,6 +134,14 @@
          "logoURI":"https://assets.coingecko.com/coins/images/8251/small/frm.png?1563777564"
       },
       {
+         "address":"0xad86d0e9764ba90ddd68747d64bffbd79879a238",
+         "chainId":56,
+         "name":"PAID",
+         "symbol":"PAID",
+         "decimals":18,
+         "logoURI":"https://assets.coingecko.com/coins/images/13761/small/PAID.png?1612493556"
+      },
+      {
          "address":"0xe1de1dc4de074e9c8bbf5e2d66cfdb4f0b2cb61a",
          "chainId":4,
          "name":"PAID",
