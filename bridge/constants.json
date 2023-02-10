@@ -15,7 +15,8 @@
         "HARMONY_MAINNET_0": "https://explorer.harmony.one/tx/{}",
         "FTM_MAINNET": "https://ftmscan.com/tx/{}",
         "SHIDEN_TESTNET": "https://shibuya.subscan.io/tx/{}",
-        "SHIDEN_MAINNET": "https://blockscout.com/shiden/tx/{}"
+        "SHIDEN_MAINNET": "https://blockscout.com/shiden/tx/{}",
+        "ETHEREUM_ARBITRUM": "https://arbiscan.io/tx/{}"
     },
     "explorerLinkForAddress": {
         "RINKEBY": "https://rinkeby.etherscan.io/address/{}",
@@ -23,7 +24,8 @@
         "BSC": "https://bscscan.com/address/{}",
         "BSC_TESTNET": "https://testnet.bscscan.com/address/{}",
         "MUMBAI_TESTNET": "https://mumbai.polygonscan.com/address/{}",
-        "POLYGON": "https://polygonscan.com/address/{}"
+        "POLYGON": "https://polygonscan.com/address/{}",
+        "ETHEREUM_ARBITRUM": "https://arbiscan.io/address/{}"
     },
     "bridgeNetworks": [
         "ETHEREUM",
@@ -41,7 +43,8 @@
         "FTM_MAINNET",
         "SHIDEN_TESTNET",
         "SHIDEN_MAINNET",
-        "HARMONY_MAINNET_0"
+        "HARMONY_MAINNET_0",
+        "ETHEREUM_ARBITRUM"
     ],
     "networkLogos": {
         "ETHEREUM": "https://i.imgur.com/xaaAZFT.png",
@@ -59,6 +62,7 @@
         "FTM_MAINNET": "https://i.imgur.com/6K5JdEA.png",
         "FTM_TESTNET": "https://i.imgur.com/6K5JdEA.png",
         "SHIDEN_MAINNET": "https://i.imgur.com/g3HAflj.png",
-        "SHIDEN_TESTNET": "https://i.imgur.com/g3HAflj.png"
+        "SHIDEN_TESTNET": "https://i.imgur.com/g3HAflj.png",
+        "ETHEREUM_ARBITRUM": "https://i.imgur.com/g3HAflj.png"
     }
 }
